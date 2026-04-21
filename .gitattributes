@@ -1,0 +1,16 @@
+# Normalizar line endings para LF
+* text=auto eol=lf
+
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.gradle text eol=lf
+
+*.png binary
+*.jpg binary
+*.keystore binary
+*.jks binary
